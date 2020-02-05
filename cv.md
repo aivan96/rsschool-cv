@@ -1,5 +1,5 @@
 1. Ivan, Shinkevich
-2. phone number: +375297296528, email: itsgonnabe0legen0wait0for0dary@gmail.com
+2. Mobile phone number: +375297296528, email: itsgonnabe0legen0wait0for0dary@gmail.com
 3. My first goal is to learn English (I finished Streamline course at Pre-intermediate level).
    The second goal is to visit new Streamline course (Intermediate level).
    The third goal is to learn JS, React.
