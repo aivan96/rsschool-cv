@@ -1,2 +1,2 @@
 # rsschool-cv
-https://aivan96.github.io/rsschool-cv/cv
+My CV file - https://aivan96.github.io/rsschool-cv/cv
