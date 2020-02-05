@@ -6,6 +6,6 @@
    The fourth goal is work at EPAM.
 4. HTML( beginner), CSS( beginner), JavaScript( beginner)
 5. https://aivan96.github.io/Sense123/
-6. -
+6. None
 7. BSTU (economy), BSTU(IT), Streamline course(Pre-intermediate level)
 8. English level: A2+
