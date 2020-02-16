@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: orange;
+}
+.container{
+  margin: 0 auto;
+  width: 1024px;
+}
+.header{
+  background: black;
+  height: 100px;
+}
+.vklogo{
+  width: 100px;
+  height: 100px;
+  opacity: 0.7;
+}
+.vklogo:hover{
+  opacity: 1;
+}
+.githublogo{
+  width: 100px;
+  height: 100px;
+  opacity: 0.7;
+}
+.githublogo:hover{
+  opacity: 1;
+}
+.profile{
+  color: white;
+  font-family: Century Gothic;
+  font-weight: bold;
+  font-size: 40px;
+}
+.information{
+  padding: 10px;
+  text-align: left;
+  color: black;
+  font-family: Century Gothic;
+  font-weight: bold;
+  font-size: 18px;
+}
+.information a{
+  text-decoration: none;
+  color: black;
+}
+.information a:hover{
+  text-decoration: none;
+  color: blue;
+}
+.photo{
+  width: 200px;
+  height: 200px;
+}
