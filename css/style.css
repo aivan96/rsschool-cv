@@ -188,8 +188,11 @@
 .education{
   color: orangered;
 }
-.workimg img{
+.working img{
   padding-left: 50px;
   width: 100px;
   height: 100px;
+}
+.date2021{
+  color: white;
 }
